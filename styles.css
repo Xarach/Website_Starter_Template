@@ -1,0 +1,23 @@
+/*
+===========================================================================
+  Project: 
+  Auteur: Xarach
+  Website: https://xarachcodes.com
+  Datum:
+  Versie: 1.0
+  Beschrijving: 
+===========================================================================
+*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
